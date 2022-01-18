@@ -2,8 +2,7 @@
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages/Framework/DataBase&badges=Java,JavaScript,.Net,Csharp,jQuery,Spring,Oracle,MySQL,PostgreSQL,Mssql,JSP)](https://github.com/SJIN-PARK)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Tool/Knowledge&badges=Eclipse,VisualStudio,IIS,Tomcat,RestAPI,     
-                                     SOAP,SVN,EAI,RFC,JSTL,ajax,Json,SSL,MVC,EDI)](https://github.com/SJIN-PARK)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Tool/Knowledge&badges=)](https://github.com/SJIN-PARK)
 
 
 <!--
