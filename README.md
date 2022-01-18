@@ -1,6 +1,6 @@
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Java,jQuery)](https://github.com/SJIN-PARK)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Java,JavaScript,.Net,C#,jQuery,Spring)](https://github.com/SJIN-PARK)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Java,JavaScript,.Net,Csharp,jQuery,Spring)](https://github.com/SJIN-PARK)
 
 
 <!--
